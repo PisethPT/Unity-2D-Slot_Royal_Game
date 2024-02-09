@@ -1,0 +1,5 @@
+C:/Unity Project Games/Janaury/Slot-2024/.utmp/RelWithDebInfo/73201n21/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Unity Project Games/Janaury/Slot-2024/.utmp/RelWithDebInfo/73201n21/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Unity Project Games/Janaury/Slot-2024/.utmp/RelWithDebInfo/73201n21/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Unity Project Games/Janaury/Slot-2024/.utmp/RelWithDebInfo/73201n21/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Unity Project Games/Janaury/Slot-2024/.utmp/RelWithDebInfo/73201n21/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

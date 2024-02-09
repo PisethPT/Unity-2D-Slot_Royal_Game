@@ -1,0 +1,21 @@
+# ninja log v5
+66	286	7268329606555985	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9160b2af55f55047
+34	1623	7268329619670424	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b730738493b3f8a4
+288	625	7268329609030110	C:/Unity Project Games/Janaury/Slot-2024/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4qq1t104/obj/armeabi-v7a/libswappywrapper.so	fdec35ac1775ca7a
+42	1063	7268329614269058	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a4b8488905412281
+6	1094	7268329614661275	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	915e7e5d4c1ed346
+23	1307	7268329616708732	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a46c074f3ff8e514
+49	1139	7268329615009558	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f804c6abeb74cc13
+58	1309	7268329616708732	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	81d027bf8e81d2e2
+14	1510	7268329618749170	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	12f71c4345617b81
+1623	1893	7268329621721251	C:/Unity Project Games/Janaury/Slot-2024/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4qq1t104/obj/armeabi-v7a/libgame.so	df0ff6bd2a16391a
+73	277	7268331682576276	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9160b2af55f55047
+278	588	7268331684772512	C:/Unity Project Games/Janaury/Slot-2024/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4qq1t104/obj/armeabi-v7a/libswappywrapper.so	fdec35ac1775ca7a
+5	1114	7268331690789246	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	915e7e5d4c1ed346
+40	1122	7268331690931644	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f804c6abeb74cc13
+60	1143	7268331690977286	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a4b8488905412281
+50	1399	7268331693593120	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	81d027bf8e81d2e2
+22	1400	7268331693593120	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a46c074f3ff8e514
+12	1562	7268331695298700	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	12f71c4345617b81
+31	1756	7268331697166505	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b730738493b3f8a4
+1756	2010	7268331699000367	C:/Unity Project Games/Janaury/Slot-2024/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4qq1t104/obj/armeabi-v7a/libgame.so	df0ff6bd2a16391a
